@@ -1,12 +1,13 @@
-## Majority Element 169 
+# Majority Element 169 
 
-problem is done using moore's Algorithm 
- # Approach:
+Problem is done using moore's Algorithm 
+ ## Approach:
   1. Firstly initialise a variable count=0, which check for the majority element count
   2. initially if count is zero we initialize the element with the stating element
   3. Now increse the count if we get a similar match with majority element and decrese the count if not matched.
   4. this way we get the majority element using moore's algorithm
- ``` Java:
+## Java Code Implementation:
+ ```java:
 import java.util.*;
 public class Majority_Element_169 {
     public static void main(String[] args) {
