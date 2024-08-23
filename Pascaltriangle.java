@@ -1,7 +1,7 @@
-/*
 
-Approach:
-The steps are as follows:
+
+#Approach:
+**The steps are as follows:**
 
 1)First, we will run a loop(say row) from 1 to n.
 2)Inside the loop, we will call a generateRow() function and add the returned list to our final answer. Inside the function we will do the following:
@@ -10,9 +10,8 @@ The steps are as follows:
 5)Inside the loop, we will use the specified formula to print the element. We will multiply the previous answer by (row-col) and then divide it by col itself.
 6)Thus, the entire row will be stored and returned.
 7)Finally, we will return the answer list.
- */
-
-
+ 
+```java
 import java.util.ArrayList;
 import java.util.*;
 
@@ -50,8 +49,8 @@ class Pascaltriangle {
         sc.close();
     }
 }
+```
 
-
-/* TIME COMPLEXITY : O(N^2) 
- * SPACE COMPLEXITY : O(1)
- */
+ TIME COMPLEXITY : O(N^2) 
+ SPACE COMPLEXITY : O(1)
+ 
