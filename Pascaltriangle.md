@@ -1,4 +1,4 @@
-#Approach:
+**#Approach:**
 
 **The steps are as follows:**
 
