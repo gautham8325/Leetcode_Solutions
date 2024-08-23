@@ -1,6 +1,5 @@
-
-
 #Approach:
+
 **The steps are as follows:**
 
 1)First, we will run a loop(say row) from 1 to n.
