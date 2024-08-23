@@ -1,11 +1,12 @@
-// problem is done using moore's Algorithm 
-/*
- * Approach:
- * 1. Firstly initialise a variable count=0, which check for the majority element count
- * 2. initially if count is zero we initialize the element with the stating element
- * 3. Now increse the count if we get a similar match with majority element and decrese the count if not matched.
- * 4. this way we get the majority element using moore's algorithm
- */
+## Majority Element 169 
+
+problem is done using moore's Algorithm 
+ # Approach:
+  1. Firstly initialise a variable count=0, which check for the majority element count
+  2. initially if count is zero we initialize the element with the stating element
+  3. Now increse the count if we get a similar match with majority element and decrese the count if not matched.
+  4. this way we get the majority element using moore's algorithm
+ ``` Java:
 import java.util.*;
 public class Majority_Element_169 {
     public static void main(String[] args) {
@@ -36,6 +37,6 @@ public class Majority_Element_169 {
         return element;
     }
 }
-
-// time complexity : O(N)
-// Space Complexity : O(1)
+```
+ Time complexity : O(N)
+ Space Complexity : O(1)
