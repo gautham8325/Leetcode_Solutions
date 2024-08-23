@@ -17,6 +17,7 @@ public class Majority_Element_169 {
         }
         int result= majortiyElement(arr);
         System.out.println(result);
+        sc.close();
     }
     public static int majortiyElement(int [] arr){
         int count=0;
