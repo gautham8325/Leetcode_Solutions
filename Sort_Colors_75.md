@@ -1,8 +1,8 @@
 # BruteForce Approach
 ### Intuition
-    Use of Inbuilt functions.
+Use of Inbuilt functions.
 ### Approach
-    here i have used Arrays.sort(); functions to sort 
+here i have used Arrays.sort(); functions to sort 
 ### Complexity
 - Time complexity:
     O(NlogN)
