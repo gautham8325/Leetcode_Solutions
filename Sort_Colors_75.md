@@ -1,14 +1,14 @@
-## BruteForce Approach
-# Intuition
+# BruteForce Approach
+### Intuition
     Use of Inbuilt functions.
-# Approach
+### Approach
     here i have used Arrays.sort(); functions to sort 
-# Complexity
+### Complexity
 - Time complexity:
     O(NlogN)
 - Space complexity:
     O(1)
-# Code
+## Code
 ```java []
 import java.util.*;
 class Solution {
@@ -18,14 +18,14 @@ class Solution {
 }
 ```
 
-## Better Approach
-# Intuition
+# Better Approach
+### Intuition
 Counting and Replacing
 
-# Approach
+### Approach
 counting number of 0's,1's,2's and replacing them in the original places.
 
-# Complexity
+### Complexity
 - Time complexity:
 O(N)
 
