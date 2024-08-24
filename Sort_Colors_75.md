@@ -68,7 +68,7 @@ In this step, we will do nothing to the mid-pointer as even after swapping, the 
 Finally, our array should be sorted.
 
 ## Code:
-```java:
+```java []
     class Solution {
     public void sortColors(int[] nums) {
         int low=0;
