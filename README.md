@@ -1,6 +1,6 @@
 # 🚀 LeetCode Solutions Repository
 
-Welcome to my **LeetCode Solutions** repository! 🎉 This is your go-to place for clear, well-documented solutions to LeetCode problems, categorized by difficulty and topic. Whether you're just starting with coding or honing your problem-solving skills, you’ll find solutions that will help you grow and learn.
+Welcome to my **LeetCode Solutions** repository! 🎉 This is your go-to place for clear, well-documented solutions to LeetCode problems,  by name and problem number. Whether you're just starting with coding or honing your problem-solving skills, you’ll find solutions that will help you grow and learn.
 
 ---
 
