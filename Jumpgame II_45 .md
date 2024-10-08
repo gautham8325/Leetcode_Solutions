@@ -1,4 +1,4 @@
-# Java Project Documentation
+# JumpGame II leetcode_45
 
 ## Introduction
 This project implements a solution for the "Jump Game II" problem, where the goal is to determine the minimum number of jumps required to reach the last index in an array of integers.
