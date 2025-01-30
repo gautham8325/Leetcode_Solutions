@@ -1,20 +1,24 @@
 # Intuition
+
 By checking the no of possible values for each digit
 
-# Approach
-1) for odd digit we have 4 values 
+## Approach
+
+1) for odd digit we have 4 values
 2) for even digit we have 5 values
-3) in this way we get more time comlexity 
+3) in this way we get more time comlexity
 4) so we use power function to acheive thsi problem.
 
-# Complexity
+## Complexity
+
 - Time complexity:
 $$O(n)$$
 
 - Space complexity:
 $$O(1)$$
 
-# Code
+## Code
+
 ```java []
 class Solution {
     private static final int MOD = 1_000_000_007;

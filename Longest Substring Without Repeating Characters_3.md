@@ -1,10 +1,10 @@
 # Using Hash Map
 
-### Intuition
+## Intuition
 
 The goal is to find the length of the longest substring without repeating characters. The first thought is to use a data structure to keep track of the characters in the current substring.
 
-### Approach
+## Approach
 
 1. Use a `HashMap` to keep track of the characters and their positions in the current substring.
 2. Traverse the string character by character.
