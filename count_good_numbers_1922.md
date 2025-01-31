@@ -12,9 +12,11 @@ By checking the no of possible values for each digit
 ## Complexity
 
 - Time complexity:
+
 $$O(n)$$
 
 - Space complexity:
+
 $$O(1)$$
 
 ## Code
